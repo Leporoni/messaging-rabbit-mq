@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MessagingrabbitmqApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(MessagingrabbitmqApplication.class, args);
 	}
 
